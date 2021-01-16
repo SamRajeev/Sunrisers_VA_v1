@@ -2,4 +2,6 @@ PyDictionary
 wikipedia
 regex
 pyttsx3
-speech_recognition
+SpeechRecognition
+urllib3
+google

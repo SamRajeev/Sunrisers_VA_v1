@@ -1,6 +1,5 @@
 PyDictionary
 wikipedia
-urllib
 re
 pyttsx3
 speech_recognition

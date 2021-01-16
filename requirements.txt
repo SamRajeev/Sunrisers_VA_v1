@@ -1,7 +1,0 @@
-PyDictionary
-wikipedia
-regex
-pyttsx3
-SpeechRecognition
-urllib3
-google
